@@ -61,7 +61,7 @@ print("Nombre de personnes qui ne sortent pas ou ne vont pas au lit: "
 # Voir la matrice de corrélation en graphique
 # plot_correlation_matrix(variables, data)
 
-print(correlation_data["Y1"].sort_values(ascending=False))
+# print(correlation_data["Y1"].sort_values(ascending=False))
 print("Taille du dataframe: " + str(data.shape))
 
 
